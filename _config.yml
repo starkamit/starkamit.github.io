@@ -16,7 +16,7 @@ logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://starkamit.github.io/
-source_url: https://starkamit.github.io/
+source_url: https://github.com/starkamit/starkamit.github.io/
 CNAME: #add cname for website to be created
 
 # Social info
